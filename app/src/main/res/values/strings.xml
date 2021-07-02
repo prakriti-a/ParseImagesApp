@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parse Images App</string>
+
+    <string name="hint_loginID">Enter Email or Username*</string>
+    <string name="hint_password">Enter Password*</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnGoToSignUp">CREATE NEW ACCOUNT!</string>
+    <string name="hint_email">Enter Email*</string>
+    <string name="hint_username">Enter Username*</string>
+    <string name="btnSignUp">SIGN UP</string>
+    <string name="btnGoToLogin">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="text">THIS IS MY IMAGE</string>
+    <string name="no_images">No images to display</string>
+
+</resources>
